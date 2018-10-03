@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=xBound\ yBound\ nCities
+comment0.target=GreedyAlgorithm(int,\ int,\ int)
+comment1.params=cityList
+comment1.target=GreedyAlgorithm(java.util.ArrayList)
+comment2.params=
+comment2.target=void\ findSolution()
+comment3.params=c1\ c2
+comment3.target=double\ calcDist(City,\ City)
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

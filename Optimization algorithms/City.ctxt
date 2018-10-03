@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_x\ _y\ cityName
+comment0.target=City(int,\ int,\ java.lang.String)
+comment1.params=xBound\ yBound
+comment1.target=City(int,\ int)
+numComments=2

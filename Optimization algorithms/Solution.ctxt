@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=allCities
+comment0.target=Solution(java.util.ArrayList)
+comment1.params=s1\ s2
+comment1.target=Solution(Solution,\ Solution)
+comment10.params=
+comment10.target=void\ switchRandomCities()
+comment2.params=toBeCopied
+comment2.target=Solution(Solution)
+comment3.params=allCities
+comment3.target=java.util.ArrayList\ cloneArrayList(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ print()
+comment5.params=list
+comment5.target=void\ print(java.util.ArrayList)
+comment6.params=
+comment6.target=void\ main()
+comment7.params=
+comment7.target=double\ getFitness()
+comment8.params=g\ c
+comment8.target=void\ paint(java.awt.Graphics,\ java.awt.Color)
+comment9.params=
+comment9.target=void\ mutate()
+numComments=11

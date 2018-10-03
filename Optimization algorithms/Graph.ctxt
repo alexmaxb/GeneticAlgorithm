@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=xLoc\ yLoc\ _width\ _height\ initializationPoint
+comment0.target=Graph(int,\ int,\ int,\ int,\ GraphPoint)
+comment1.params=gp
+comment1.target=void\ addPoint(GraphPoint)
+comment2.params=g
+comment2.target=java.awt.Graphics\ paint(java.awt.Graphics)
+comment3.params=me
+comment3.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment4.params=me
+comment4.target=void\ mouseDragged(java.awt.event.MouseEvent)
+numComments=5

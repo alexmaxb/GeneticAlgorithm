@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=numCities\ xBound\ yBound\ generationSize
+comment0.target=GeneticAlgorithm(int,\ int,\ int,\ int)
+comment1.params=cityList\ generationSize
+comment1.target=GeneticAlgorithm(java.util.ArrayList,\ int)
+comment10.params=
+comment10.target=void\ test()
+comment2.params=
+comment2.target=void\ moveToNextGeneration()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ main()
+comment5.params=
+comment5.target=void\ setRanges()
+comment6.params=
+comment6.target=void\ findBestOfGen()
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment9.params=e
+comment9.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=11
